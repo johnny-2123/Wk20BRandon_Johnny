@@ -6,4 +6,4 @@ In this project, you will be executing SQL commands with JOIN tables.
 
 `cd` into the `sql-practice` folder.
 
-Run `npm install` to install the dependencies.
+Run `npm install` to install the dependencies.# Wk20BRandon_Johnny
